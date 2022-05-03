@@ -1,0 +1,7 @@
+{
+  "/": "API Documentation",
+  "/movie": "Get movie data and trailers (Example: http://localhost:8080/movie?id=157336)",
+  "/movie/search": "Search for movies (Example: http://localhost:8080/movies/search?search=interstellar&page=1&limit=5",
+  "/show": "Get tv show data and trailers (Example: http://localhost:8080/show?id=60622)",
+  "/show/search": "Search for tv shows (Example: http://localhost:8080/show/search?search=blood&page=1&limit=5)"
+}
